@@ -29,8 +29,14 @@ The purpose of this analysis is to replace 9th grade reading and math scores at 
        - New math scores by grade 
          - ![](Resources/New_math_scores_by_grade.png)
        - New reading scores by grade
-         - ![](Resources/New_reading_scores_by_grade.png)   
-
-
+         - ![](Resources/New_reading_scores_by_grade.png)
+     - Scores by school spending, school size, and school type all remained unchanged from the initial analysis
+       - Scores by school spending
+         - ![](Resources/New_spending_summary_df.png)
+       - Scores by school size
+         - ![](Resources/New_size_summary_df.png)
+       - Scores by school type
+         - ![](Resources/New_type_summary_df.png)       
 
 ## Summary
+
