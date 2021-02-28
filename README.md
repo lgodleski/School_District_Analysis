@@ -4,7 +4,7 @@
 The purpose of this analysis is to replace 9th grade reading and math scores at Thomas High School(THS) and rerun the entire school district analysis to see how the changes affect the overall analysis. 
 
 ## Results
-   - The new district summary we created that excluded the 9th grade reading and math scores from THS had a slightly lower average math score, the same average reading score, a higher % passing math score, a lower % passing reading score, and a lower % overall passing score than the initial district summary we created. 
+   - The new district summary we created that excluded the 9th grade reading and math scores from THS shows that overall the district has a slightly lower average math score, the same average reading score, a lower % passing math score, a lower % passing reading score, and a lower % overall passing score than the initial district summary we created. 
      - Original district summary
        - ![](Resources/Original_district_summary_df.png)
      - New district summary
@@ -39,4 +39,8 @@ The purpose of this analysis is to replace 9th grade reading and math scores at 
          - ![](Resources/New_type_summary_df.png)       
 
 ## Summary
-
+After the reading and math scores for 9th graders in THS were replaced, 
+   - The average math score for THS and the district was slightly lower
+   - The percentage of students passing math was slightly lower for THS and the district
+   - The percentage of students passing reading was slightly lower for THS and the district
+   - The percentage of students passing both math and reading for THS and the district was slightly lower 
