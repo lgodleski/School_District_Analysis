@@ -41,6 +41,6 @@ The purpose of this analysis is to replace 9th grade reading and math scores at 
 ## Summary
 After the reading and math scores for 9th graders in THS were replaced, 
    - The average math score for THS and the district was slightly lower
+   - The percentage of students passing math was slightly lower for THS and the district
    - The percentage of students passing reading was slightly lower for THS and the district
-   - The percentage of students passing both math and reading for THS and the district was slightly lower
-   - The scores by school spending, size and type are not affected which shows that the 9th grade math and reading scores for THS do not have a significant impact on these district metrics  
+   - The percentage of students passing both math and reading for THS and the district was slightly lower 
